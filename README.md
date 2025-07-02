@@ -31,13 +31,15 @@ This innovative approach supports smarter maintenance workflows and offers a gli
 - Develop a HoloLens 2 application using Unity Hub to interact with 3D models in real-world environments.
 - Enable real-time interaction with models (zoom, rotate, inspect) for more intuitive technical assessments.
   
-## Tools & Technologies
+## 🛠 Tools & Technologies
 
 - **Fusion 360** – For 3D modeling of the chisel tool.
 - **3D Printing** – Physical fabrication of the tool prototype.
 - **Unity Hub + Unity 3D** – To build AR experiences and import CAD models.
-- **Microsoft HoloLens 2** – For real-time visualization and interaction.
-- **Mixed Reality Toolkit (MRTK)** – To handle interactions (zoom, rotate, drag) on HoloLens.
+- **Visual Studio** – Used to configure and deploy HoloLens 2 applications, manage scripts, and handle MRTK integrations.
+- **Microsoft HoloLens 2** – For real-time visualization and interaction with 3D models.
+- **Mixed Reality Toolkit (MRTK)** – To enable interactions like zooming, rotating, and dragging models in augmented reality.
+
 
 ## Key Features
 
