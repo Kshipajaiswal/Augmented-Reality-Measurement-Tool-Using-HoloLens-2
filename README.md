@@ -31,7 +31,7 @@ This innovative approach supports smarter maintenance workflows and offers a gli
 - Develop a HoloLens 2 application using Unity Hub to interact with 3D models in real-world environments.
 - Enable real-time interaction with models (zoom, rotate, inspect) for more intuitive technical assessments.
   
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - **Fusion 360** – For 3D modeling of the chisel tool.
 - **3D Printing** – Physical fabrication of the tool prototype.
