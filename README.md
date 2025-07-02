@@ -8,7 +8,7 @@ An augmented reality tool for measurement in machine doors, combining 3D-printed
 3. [Tools & Technologies](#tools--technologies)  
 4. [Key Features](#key-features)
 5. [Use Case](#use-case)
-6. [How to Run (HoloLens)](#how-to-run-(hololens))   
+6. [How to Run (HoloLens)](#how-to-run-hololens)   
 7. [Future Scope](#future-scope)  
 8. [Author](#Author)
 
