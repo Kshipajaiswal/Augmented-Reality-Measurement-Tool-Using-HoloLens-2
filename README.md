@@ -15,7 +15,7 @@ An augmented reality tool for measurement in machine doors, combining 3D-printed
 ## Introduction
 This project explores the integration of physical prototyping and augmented reality to enhance machine maintenance and inspection tasks. A custom-designed **3D-printed chisel tool** was developed to measure gaps in machine doors more accurately and safely. To complement this, a **HoloLens 2 application** was built using **Unity Hub**, enabling real-time visualization of CAD models in augmented reality (AR).
 
-By combining physical tools with digital overlays, the system allows users—such as maintenance engineers and technicians—to:
+By combining physical tools with digital overlays, the system allows users—such as maintenance engineers and technicians to:
 - Inspect 3D machine parts in the real environment,
 - Rotate, zoom, and interact with CAD models,
 - Reduce measurement errors,
