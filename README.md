@@ -68,6 +68,6 @@ This tool helps engineers during the design review phase by letting them visuali
 ## Author
 
 **Kshipa Jaiswal**  
-📧 [kshipajaiswal@gmail.com](mailto:kshipajaiswal@gmail.com)  
-🔗 [LinkedIn](www.linkedin.com/in/kshipa-jaiswal-ab7055220)  
-💻 [GitHub]([https://github.com/Kshipajaiswal](https://github.com/Kshipajaiswal))
+- [kshipajaiswal@gmail.com](mailto:kshipajaiswal@gmail.com)  
+- [LinkedIn](www.linkedin.com/in/kshipa-jaiswal-ab7055220)  
+- [GitHub](https://github.com/Kshipajaiswal)
